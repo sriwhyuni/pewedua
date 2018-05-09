@@ -1,14 +1,17 @@
-<?php
-//ini adalah komentar
+<?php 
+//ini adalah komentar saja
+// bagaimana bila 
+// engkau wahai komputer
 
-	echo "Sri Wahyuni<br>";
-	echo "H1101161004<br>";
-
-	echo "Hello world!<br>";
-	echo "Ini adalah Duniaku";
-	echo "Ini adalah Duniaku";
-
-	$sri=157;
-	echo "Tinggi badan adalah" .$sri. "cm";
 	
-?>
+	echo "Sri Wahyuni<br>";
+	echo "NIM H1101161004<br>";
+	
+	echo "Hello World<br>";
+
+	$aaa = 110116104;
+
+	echo "nim saya adalah".$aaa." kg<br>";
+	echo 'mar\'atusholihah';
+
+ ?>
